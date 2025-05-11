@@ -9,12 +9,12 @@ const teams = [
     logo: "/images/team1.png",
     description:
       "Dominating the MLBB scene with incredible macro play and team synergy.",
-    members: 6,
+    members: 9,
     game: "Mobile Legends: Bang Bang",
     achievements: [
-      "MPL Champions 2023",
-      "M5 World Cup Finalist",
-      "MSC Winners",
+      "Balangay Cup 2024",
+      "Chinatown Cup 2024",
+      "Pagloksoon Champions",
     ],
   },
 ];
